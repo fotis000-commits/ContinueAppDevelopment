@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines app development by enabling users to build and enhance applications interactively based on dynamic prompts and feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
